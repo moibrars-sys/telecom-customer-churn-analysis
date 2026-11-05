@@ -1,4 +1,4 @@
-Telecom Customer Churn & Retention Analytics
+**Telecom Customer Churn & Retention Analytics**
 
 Project Overview
 An end-to-end data analytics project that aimed to learn about the churn patterns of the telecommunications company.
@@ -67,9 +67,8 @@ The results are historical correlations and not causations or predictors of cust
 
 Author
 **Muhammad Ibrar Sohail**
-
 Enhancing student in the field of Data Analyst by utilizing the software tools Excel, SQL and Power BI.
-## Dashboard Preview
+
 
 ## Dashboard Preview
 
