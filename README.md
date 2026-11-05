@@ -71,11 +71,13 @@ Author
 Enhancing student in the field of Data Analyst by utilizing the software tools Excel, SQL and Power BI.
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### 1. Executive Overview
-![Executive Overview](dashboard/screenshots/1.png)
+![Executive Overview](telecom-churn-analysis/dashboard/screenshots/1.png)
 
 ### 2. Customer Churn Analysis
-![Customer Churn Analysis](dashboard/screenshots/2.png)
+![Customer Churn Analysis](telecom-churn-analysis/dashboard/screenshots/2.png)
 
 ### 3. Retention Strategy
-![Retention Strategy](dashboard/screenshots/3.png)
+![Retention Strategy](telecom-churn-analysis/dashboard/screenshots/3.png)
