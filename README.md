@@ -69,3 +69,13 @@ Author
 **Muhammad Ibrar Sohail**
 
 Enhancing student in the field of Data Analyst by utilizing the software tools Excel, SQL and Power BI.
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](dashboard/screenshots/1.png)
+
+### 2. Customer Churn Analysis
+![Customer Churn Analysis](dashboard/screenshots/2.png)
+
+### 3. Retention Strategy
+![Retention Strategy](dashboard/screenshots/3.png)
