@@ -67,7 +67,7 @@ The results are historical correlations and not causations or predictors of cust
 
 Author
 **Muhammad Ibrar Sohail**
-Enhancing student in the field of Data Analyst by utilizing the software tools Excel, SQL and Power BI.
+IT Graduate | Aspiring Data Analyst | Excel | SQL | Power BI
 
 
 ## Dashboard Preview
